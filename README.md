@@ -10,4 +10,4 @@ To bridge this gap, this study proposes a heterogeneous multitasking framework f
 
 *Published in: IEEE Transactions on Evolutionary Computation*
 
-📄 The paper is available at .
+📄 The paper is available at [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10908695)](https://ieeexplore.ieee.org/document/11214253).
